@@ -113,5 +113,10 @@ h2 {
 }
 
 footer {
-  
+ background-color: rgb(82, 80, 80);
+ color: white;
+ height: 100px;
+ font-size: xx-large;
+ display:flex;
+  justify-content: center;
 }
